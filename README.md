@@ -1,7 +1,7 @@
 # Project AIUB
 Coming soon in Roblox 
-## Getting Started
+### Getting Started
 Building top secret.
 ### Current stage, 
-Scratch
+Mapping scenery
 
