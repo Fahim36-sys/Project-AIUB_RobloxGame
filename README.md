@@ -1,5 +1,5 @@
 # Project AIUB
-Coming soon in Roblox 
+## An AIUB themed video game project, Coming soon in Roblox. 
 ### Getting Started
 Building top secret.
 ### Current stage, 
