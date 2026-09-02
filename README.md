@@ -3,4 +3,5 @@
 ### Getting Started
 Building top secret.
 ## Current stage: Mapping scenery
+## Coding status: Scratch
 
