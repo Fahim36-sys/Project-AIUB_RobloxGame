@@ -1,4 +1,4 @@
 return function ()
 	
-	print("Hello, world! Chodna")
+	print("Hello, world!")
 end
