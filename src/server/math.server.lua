@@ -13,3 +13,4 @@ obj.Color=Color3.fromRGB(255, 0, 0)
 obj.Touched:Connect(function(hit)
     obj.Color=Color3.fromRGB(0, 0, 255)
 end)
+
